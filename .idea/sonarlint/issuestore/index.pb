@@ -5,3 +5,5 @@ S
 #contracts/project-verification.clar,8/b/8b9b88a9f67dd8667e5cbd9073febb8c3ffb3e3a
 T
 $contracts/offset-quantification.clar,2/6/264f0397d7911f965ea8b1705104b14afd3ffdf5
+I
+contracts/retirement.clar,9/c/9c17f692ebed638d122153dfae3c5aa2c256ac31
