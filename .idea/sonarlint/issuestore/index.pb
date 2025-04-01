@@ -7,3 +7,5 @@ T
 $contracts/offset-quantification.clar,2/6/264f0397d7911f965ea8b1705104b14afd3ffdf5
 I
 contracts/retirement.clar,9/c/9c17f692ebed638d122153dfae3c5aa2c256ac31
+F
+contracts/trading.clar,7/e/7e480343699ccc9440a9b0956f23152743eb78b7
